@@ -56,3 +56,7 @@ footer {
   height: auto;
   border-radius: 8px; /* Rounded corners */
 }
+
+.project {
+  margin-bottom: 40px; /* Adds space below each project section */
+}
