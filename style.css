@@ -60,3 +60,8 @@ footer {
 .project {
   margin-bottom: 40px; /* Adds space below each project section */
 }
+
+.project a {
+  display: inline-block;
+  margin-top: 10px;
+}
