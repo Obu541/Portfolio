@@ -39,3 +39,11 @@ footer {
     background-color: #333;
     color: #fff;
 }
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
