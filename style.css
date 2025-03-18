@@ -58,7 +58,8 @@ footer {
 }
 
 .project {
-  margin-bottom: 60px; /* Adds space below each project section */
+  margin-bottom: 60px;
+  border: 1px solid red;  /* Adds space below each project section */
 }
 
 .project a {
