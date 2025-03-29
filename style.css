@@ -65,3 +65,15 @@ footer {
   display: inline-block;
   margin-top: 10px;
 }
+.button {
+  display: inline-block;
+  background-color: #2e8b57;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: #246b45;
+}
