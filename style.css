@@ -68,7 +68,7 @@ footer {
 
 .button {
   display: inline-block;
-  background-color: #d3d3d3;
+  background-color: #2e8b57;
   color: white;
   padding: 10px 20px;
   border-radius: 8px;
@@ -77,5 +77,5 @@ footer {
 }
 
 .button:hover {
-  background-color: #4f4f4f;
+  background-color: #246b45;
 }
